@@ -1,0 +1,14 @@
+ Volume in drive D is DATA
+ Volume Serial Number is BE67-2F8D
+
+ Directory of D:\huan\Hello\src
+
+10/23/2023  06:20 PM    <DIR>          .
+10/23/2023  06:20 PM    <DIR>          ..
+10/23/2023  05:39 PM               415 Hello.class
+10/23/2023  03:42 PM               122 Hello.java
+10/23/2023  05:31 PM               440 readme.txt
+10/23/2023  05:37 PM               492 readme2.txt
+10/23/2023  06:20 PM                 0 test.txt
+               5 File(s)          1,469 bytes
+               2 Dir(s)  654,939,152,384 bytes free
